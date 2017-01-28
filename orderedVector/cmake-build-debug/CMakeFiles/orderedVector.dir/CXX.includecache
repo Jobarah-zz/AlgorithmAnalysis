@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jobar/ClionProjects/orderedVector/Test.cpp
+Test.h
+C:/Users/jobar/ClionProjects/orderedVector/Test.h
+
+C:/Users/jobar/ClionProjects/orderedVector/Test.h
+iostream
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/jobar/ClionProjects/orderedVector/main.cpp
+Test.h
+C:/Users/jobar/ClionProjects/orderedVector/Test.h
+iostream
+-
+

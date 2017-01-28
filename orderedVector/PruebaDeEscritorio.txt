@@ -1,0 +1,19 @@
+buscando el numero 2
+
+arreglo inicial
+primer iteracion
+se elige el 5, 5 fue mayor que 2 entonces evaluamos la mitad izquierda nada mas
+1,2,3,4,5,6,7,8,9,10
+
+se elige el 3, 3 nuevamente fue mayor que 2 entonces evaluamos la mitad izquierda nada mas
+segunda iteracion
+1,2,3,4,5
+
+tercer iteracion
+se elige el 2, este es el valor que se busca entonces retornamos
+123
+
+en el peor de los casos el algoritmo toma n/2 reduciendo la busqueda de lineal a logaritmica
+
+
+
