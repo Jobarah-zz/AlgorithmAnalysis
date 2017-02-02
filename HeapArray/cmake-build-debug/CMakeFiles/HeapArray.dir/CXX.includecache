@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jobar/ClionProjects/HeapArray/Test.cpp
+Test.h
+C:/Users/jobar/ClionProjects/HeapArray/Test.h
+
+C:/Users/jobar/ClionProjects/HeapArray/Test.h
+iostream
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/jobar/ClionProjects/HeapArray/main.cpp
+Test.h
+C:/Users/jobar/ClionProjects/HeapArray/Test.h
+iostream
+-
+
