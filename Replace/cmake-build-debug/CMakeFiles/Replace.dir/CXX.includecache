@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jobar/Desktop/Replace/Test.cpp
+Test.h
+C:/Users/jobar/Desktop/Replace/Test.h
+
+C:/Users/jobar/Desktop/Replace/Test.h
+iostream
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/jobar/Desktop/Replace/main.cpp
+Test.h
+C:/Users/jobar/Desktop/Replace/Test.h
+iostream
+-
+vector
+-
+

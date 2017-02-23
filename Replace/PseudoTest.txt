@@ -1,0 +1,21 @@
+Given the min-heap tree:
+	 	  10 
+	  40	  20
+	90 	80 	30  50 
+  100
+
+we now replace the value of 20 with 200
+  	 	  10 
+	  40	  200
+	90 	80 	30  50 
+  100
+
+after replacing it, we evaluate if it's parent is greater than the replaced value
+then we swap the values
+
+else we evaluate the value is greater than it's children, we then choose the least of it's children
+and swap the values
+
+after any of this conditions is met, then we reevaluate if the tree remains a min-heap reevluating with the swapped value
+
+else we return the resultant tree

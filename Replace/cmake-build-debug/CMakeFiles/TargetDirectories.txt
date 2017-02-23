@@ -1,0 +1,3 @@
+C:/Users/jobar/Desktop/Replace/cmake-build-debug/CMakeFiles/Replace.dir
+C:/Users/jobar/Desktop/Replace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jobar/Desktop/Replace/cmake-build-debug/CMakeFiles/rebuild_cache.dir

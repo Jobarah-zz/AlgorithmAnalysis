@@ -1,0 +1,11 @@
+hashmap implementation
+
+insert -> 'arroz', 3
+this generates a hash key using the ascii value of every character contained in the string
+
+insert -> 'zorra', 4
+now the generated has key of this string is the same of the previous one given it contains the same characters giving the same result of the operation performed in the ascii values
+given we have a list in the array, in the position of the hash key list, we simply push the value to this list
+
+get -> 'arroz', 3
+as mentioned above, the hash generated for both values is the same one, we position ourselves in the index of this hash an iterate the list until we find the value 
