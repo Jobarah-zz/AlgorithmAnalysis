@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Edge.cpp
+Edge.h
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Edge.h
+
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Edge.h
+
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Test.cpp
+Test.h
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Test.h
+
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Test.h
+iostream
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+map
+-
+queue
+-
+list
+-
+Edge.h
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Edge.h
+
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/main.cpp
+Test.h
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Test.h
+iostream
+-
+Edge.h
+C:/Users/jobar/Documents/git/AlgorithmAnalysis/mstKruskal/Edge.h
+
